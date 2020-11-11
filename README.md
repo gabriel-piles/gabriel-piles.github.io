@@ -1,4 +1,6 @@
 Publish site
-cd hugo
+
+
+```cd hugo
 hugo -D
-cp -r public/* ./../
+cp -r public/* ./../```
